@@ -40,6 +40,7 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Bumps `dezalgo` from 1.0.3 to 1.0.4
 - Bumps `tsd` from 0.24.1 to 0.25.0
 - Bumps `aws4` from 1.11.0 to 1.12.0
+- Bumps `into-stream` from 6.0.0 to 7.0.0
 
 ### Dependencies
 ### Changed
